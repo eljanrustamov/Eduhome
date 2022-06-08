@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{5E75C9A5-1706-4576-ABA2-529796553491}|Default">
+  <MonoDevelop.Ide.ItemProperties.Eduhome PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Base/IEntity.cs">
+    <Files>
+      <File FileName="Eduhome/Areas/Admin/Controllers/SliderController.cs" Line="20" Column="43" />
+      <File FileName="Business/Services/ISlidersService.cs" Line="8" Column="6" />
+      <File FileName="Business/Base/IBaseService.cs" Line="13" Column="30" />
+      <File FileName="Business/Implementations/SliderRepository.cs" Line="11" Column="52" />
+      <File FileName="Business/Startup.cs" Line="1" Column="1" />
+      <File FileName="Eduhome/Startup.cs" Line="44" Column="47" />
+      <File FileName="DAL/Base/IEntity.cs" Line="4" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eduhome" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Implementations" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="DAL" expanded="True">
+              <Node name="Base" expanded="True">
+                <Node name="IEntity.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="Eduhome" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/eljanrustamov/Projects/Eduhome/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/Users/eljanrustamov/Projects/Eduhome/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.json
+/Users/eljanrustamov/Projects/Eduhome/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.dev.json
+/Users/eljanrustamov/Projects/Eduhome/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/eljanrustamov/Projects/Eduhome/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.AssemblyReference.cache
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/Users/eljanrustamov/Projects/Eduhome/DAL/obj/Debug/netcoreapp3.1/DAL.genruntimeconfig.cache
